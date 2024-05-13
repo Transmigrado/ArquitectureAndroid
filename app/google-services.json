@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402368842021",
+    "project_id": "testarquitecture",
+    "storage_bucket": "testarquitecture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402368842021:android:1f3d1f28a249d5400d32cc",
+        "android_client_info": {
+          "package_name": "com.match.arquitecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAleIBbwd2DlwuG5_stQi-wsDT21QCYLwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
